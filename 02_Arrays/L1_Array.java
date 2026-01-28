@@ -1,4 +1,4 @@
-public class Array
+public class L1_Array 
 {
     public static void main(String args[])
     {

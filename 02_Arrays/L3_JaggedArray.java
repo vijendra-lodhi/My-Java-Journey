@@ -1,4 +1,4 @@
-public class JaggedArray {
+public class L3_JaggedArray {
     public static void main(String args[]){
         int[][] array = new int[3][];
 

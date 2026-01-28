@@ -1,4 +1,4 @@
-public class TwoDarray {
+public class L2_TwoDarray {
     public static void main(String args[]){
         int row = 3;
         int col = 5;

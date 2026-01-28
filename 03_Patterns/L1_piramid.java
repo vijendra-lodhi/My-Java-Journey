@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class piramid {
+public class L1_piramid {
     
     Scanner input = new Scanner(System.in);
     public static void main(String args[])
