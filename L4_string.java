@@ -7,6 +7,9 @@ class L4_string {
         s1.standard = 12;
 
         System.out.println(s1.name +"  "+s1.number+" "+s1.standard);
+
+        
+
         
     }
 }
